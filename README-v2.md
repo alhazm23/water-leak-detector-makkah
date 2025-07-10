@@ -26,8 +26,8 @@
 ## التثبيت
 1. استنخِ نسخة المستودع:  
    ```bash
-   git clone https://github.com/username/water-leak-detector-makkah.git
-   ---
+git clone https://github.com/alhazm23/water-leak-detector-makkah.git
+---
 
 📌 للمزيد من التفاصيل وحجز الخدمة في مكة، زوروا موقعنا الرسمي:  
 [الحزم الخليجي – شركة كشف تسربات المياه بمكة](https://alhazm-alkhaliji.com/)
